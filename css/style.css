@@ -133,6 +133,10 @@ footer a:hover span {
     margin: 0 auto;
 }
 
+#privacy-policy h2 {
+    margin-top: 1.5em;
+}
+
 #privacy-policy a {
     color: rgba(255, 255, 255, 0.9);
 }
