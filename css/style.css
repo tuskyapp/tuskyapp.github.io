@@ -144,3 +144,18 @@ footer a:hover span {
 #privacy-policy a:hover {
     color: #fff;
 }
+
+footer .sponsors {
+    margin-top: 2.5rem;
+}
+
+footer .sponsors h3 {
+    margin: 0;
+    font-weight: normal;
+}
+
+footer .sponsors img {
+    background-color: white;
+    padding: 8px;
+    border-radius: 8px;
+}
