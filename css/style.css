@@ -25,7 +25,7 @@ body#home {
     align-items: center;
 }
 
-body#privacy-policy {
+body#privacy-policy, body#faq {
     padding: 1em 2em;
     line-height: 150%;
     color: rgba(255, 255, 255, 0.9);
@@ -137,12 +137,20 @@ footer a:hover span {
     margin-top: 1.5em;
 }
 
-#privacy-policy a {
+#privacy-policy a, #faq a {
     color: rgba(255, 255, 255, 0.9);
 }
 
-#privacy-policy a:hover {
+#privacy-policy a:hover, #faq a:hover {
     color: #fff;
+}
+
+#faq h2 a, #faq h3 a {
+  visibility: hidden;
+}
+
+#faq h2:hover a, #faq h3:hover a {
+  visibility: visible;
 }
 
 footer .sponsors {
