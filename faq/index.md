@@ -9,4 +9,6 @@ id: faq
 
 <main>
     {{ contents | markdownify }}
+    <hr>
+    <p><a href="/">Homepage</a></p>
 </main>
