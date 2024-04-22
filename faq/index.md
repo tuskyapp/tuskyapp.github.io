@@ -4,9 +4,9 @@ layout: anchor_headings
 id: faq
 ---
 {% capture contents %}
-    {% include_relative faq_contents.md %}
+    {% include_relative contents.md %}
 {% endcapture %}
 
 <main>
-    {{ contents || markdownify }}
+    {{ contents | markdownify }}
 </main>
