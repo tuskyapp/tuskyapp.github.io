@@ -1,4 +1,4 @@
-
+{% comment %} Contents of FAQ {% endcomment %}
 # Foire Aux Questions sur Tusky
 
 ## Installer Tusky
