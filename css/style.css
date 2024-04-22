@@ -128,7 +128,7 @@ footer a:hover span {
     }
 }
 
-#privacy-policy main {
+#privacy-policy main, #faq main {
     max-width: 42em;
     margin: 0 auto;
 }
