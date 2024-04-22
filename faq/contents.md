@@ -95,6 +95,20 @@ You can adjust the order of tabs on this screen too.
 - Tap the hashtag in a post to view all posts with this hashtag
 - Tap the "mute" icon at the top right
 
+### How do I translate a post?
+
+> This feature is available in Tusky 25 or above and Nightly builds from 9th March 2024 or later. To check the Tusky version you are using open the "About" menu.
+
+- Open the three-dot-menu on any post not in your display language. Choose "translate".
+
+## Why can't I find the "translate" option on posts?
+
+Tusky supports translating posts via the connected Mastodon server since version 25. If the option doesn't show up it can have several reasons:
+
+- You are not using Tusky 25 or later
+- Your server does not support translation. If you also can't translate any posts in the web interface, this is the most likely reason. (Tusky uses the `configuration.translation.enabled` attribute of the `/api/v2/instance` endpoint to detect server support. You can also check that attribute manually by visiting `https://<your.instance>/api/v2/instance` in a browser.)
+- The post is already in your display language (or wrongly tagged as such by the author).
+
 ## Posting
 
 ### How do I edit a post?
@@ -129,6 +143,12 @@ Tusky can also use [UnifiedPush](https://unifiedpush.org/) to show notifications
 ### Why does Tusky use UnifiedPush instead of Google services for notifications?
 
 Google Services don't work on all devices and we want to give users the freedom to chose their push provider.
+
+## Profiles
+
+### Why do I see a "Information below may reflect the user's profile incompletely. Press to open full profile in browser." message on user's profiles?
+
+This happens when you are viewing profiles on servers other than your home server. Your homeserver can't know all posts of all users in the Fediverse and Tusky can only show you posts it gets from your home server. Clicking on the message will take you to this other server and you will be able to see all public posts of the user there.
 
 ## Filters
 
