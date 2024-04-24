@@ -166,3 +166,16 @@ footer .sponsors img {
     padding: 6px;
     border-radius: 8px;
 }
+
+nav.site {
+  display: flex;
+}
+
+nav.site .homepage {
+  flex-grow: 1;
+}
+
+nav.languages {
+  display: flex;
+  gap: 0.5rem;
+}

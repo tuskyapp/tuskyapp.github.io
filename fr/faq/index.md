@@ -11,5 +11,11 @@ language: fr
 <main>
     {{ contents | markdownify }}
     <hr>
-    <p><a href="/">Homepage</a></p>
+    <nav class="site">
+        <a href="/" class="homepage">Homepage</a>
+        <nav class="languages">
+            <a href="/faq/">en</a>
+            <em>fr</em>
+        </nav>
+    </nav>
 </main>

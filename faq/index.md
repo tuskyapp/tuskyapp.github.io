@@ -10,5 +10,11 @@ id: faq
 <main>
     {{ contents | markdownify }}
     <hr>
-    <p><a href="/">Homepage</a></p>
+    <nav class="site">
+        <a href="/" class="homepage">Homepage</a>
+        <nav class="languages">
+            <em>en</em>
+            <a href="/fr/faq/">fr</a>
+        </nav>
+    </nav>
 </main>
