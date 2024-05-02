@@ -31,7 +31,7 @@ id: home
       If you have any questions, feature requests or you found a bug in Tusky feel free to open
       <a href="https://github.com/tuskyapp/Tusky/issues">an issue on GitHub</a> or send a message to
       <a href="https://mastodon.social/@Tusky" rel="me">@Tusky@mastodon.social</a>. <br />
-      We have compiled some <a href="https://github.com/tuskyapp/faq/blob/master/README.md">frequently asked questions</a> as well.
+      We have compiled some <a href="/faq/">frequently asked questions</a> as well.
     </p>
   </div>
 </div>
