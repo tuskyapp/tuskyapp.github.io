@@ -41,9 +41,9 @@ id: home
 </div>
 
 <footer>
-  <a href="https://github.com/tuskyapp/Tusky/releases/download/v24.1/tusky-v24.1.apk">
+  <a href="https://github.com/tuskyapp/Tusky/releases/latest">
     <i class="icon-download"></i>
-    <span>Download apk v24.1</span>
+    <span>Download latest apk</span>
   </a>
   <a href="https://github.com/tuskyapp/Tusky/blob/develop/CHANGELOG.md">
     <i class="icon-changelog"></i>
