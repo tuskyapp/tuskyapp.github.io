@@ -73,15 +73,15 @@ You can adjust the order of tabs on this screen too.
 
 ### How do I hide boosted posts from my timeline?
 
-- Open "Preferences" (swipe from the left edge, or tap your profile picture to see the option)
-- Tap the "Filters > Tabs" section
-- Unselect the "Boosts" option
+- Open "Account Preferences" (swipe from the left edge, or tap your profile picture to see the option)
+- Tap the "Home timeline" section (at the bottom)
+- Unselect the "Show boosts" option
 
 ### How do I hide replies to posts from my timeline?
 
-- Open "Preferences" (swipe from the left edge, or tap your profile picture to see the option)
-- Tap the "Filters > Tabs" section
-- Unselect the "Replies" option
+- Open "Account Preferences" (swipe from the left edge, or tap your profile picture to see the option)
+- Tap the "Home timeline" section (at the bottom)
+- Unselect the "Show replies" option
 
 ### How do I follow a hashtag?
 
