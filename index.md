@@ -63,8 +63,8 @@ id: home
   </a>
   <div class="sponsors">
     <h3>Tusky is sponsored by</h3>
-    <a href="https://tutanota.com/">
-      <img src="img/tutanota_logo.svg" alt="Tutanota" width="320" height="75"/>
+    <a href="https://tuta.com/">
+      <img src="img/tuta_logo.svg" alt="Tutanota" width="250" height="89"/>
     </a>
   </div>
 </footer>
