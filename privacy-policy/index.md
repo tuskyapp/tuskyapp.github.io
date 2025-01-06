@@ -1,7 +1,7 @@
 ---
 title: Tusky - Mastodon client for Android - privacy policy
 layout: default
-id: privacy-policy
+id: document
 ---
 <main>
 
