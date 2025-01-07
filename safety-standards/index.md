@@ -11,6 +11,10 @@ id: document
 
   <p>Each Mastodon server has its own moderation rules and team. To report problematic content via Tusky, the app provides a "Report" button for each posting displayed to the user. The "Report" button can be used to contact the moderators of 1) the user's home instance and 2) the instance the problematic posting was provided from, to request action by the moderator teams.</p>
 
+  <div id="screenshot_report">
+      <img src="../img/screenshot_report.jpg" width="379" height="500" alt="Example screenshot of the report feature" />
+  </div>
+
   <p>If you have any questions about Tusky or this document, you can send a message to
     <a href="https://mastodon.social/@Tusky" rel="me">@Tusky@mastodon.social</a>
     or <a href="mailto:contact@tusky.app">contact@tusky.app</a></p>
