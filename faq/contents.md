@@ -136,9 +136,11 @@ Find the post you want to edit, then:
 
 By default, Tusky checks for new notifications approximately every 15 minutes.
 
-Tusky can also use [UnifiedPush](https://unifiedpush.org/) to show notifications in real-time. To do this:
+Tusky can also use [UnifiedPush](https://unifiedpush.org/) to show notifications in real-time. To do this, install one of the following apps:
 
-- Install "ntfy" (from [Google Play](https://play.google.com/store/apps/details?id=io.heckel.ntfy) or [F-Droid](https://f-droid.org/packages/io.heckel.ntfy))
+- _Sunup_ from [F-Droid](https://f-droid.org/en/packages/org.unifiedpush.distributor.sunup/) or [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.unifiedpush.distributor.sunup)
+- _ntfy_ from [Google Play](https://play.google.com/store/apps/details?id=io.heckel.ntfy) or [F-Droid](https://f-droid.org/packages/io.heckel.ntfy) ; You may need to use another server if the main one rate-limits your Mastodon server
+- Other options are available on [https://unifiedpush.org](https://unifiedpush.org/users/distributors/)
 
 ### Why does Tusky use UnifiedPush instead of Google services for notifications?
 
