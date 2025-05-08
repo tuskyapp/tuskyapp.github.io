@@ -37,7 +37,7 @@ id: home
 </div>
 
 <div id="screenshot">
-  <img src="img/screenshot.png" srcset="img/screenshot.png 1x, img/screenshot_2x.png 2x" width="297" height="550" alt="Screenshot of Tusky" />
+  <img src="img/screenshot.png" srcset="img/screenshot.png 1x, img/screenshot_2x.png 2x" width="271" height="575" alt="Screenshot of Tusky" />
 </div>
 
 <footer>
